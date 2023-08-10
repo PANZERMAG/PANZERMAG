@@ -18,11 +18,11 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: As a Python Developer, I work on full-stack projects and also constantly improve my skills in machine learning. Additionally, I create automated tools.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I enjoy working on pet projects that have the potential to improve users' lives..
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PANZERMAG-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maksym-bielik/)
 
